@@ -201,6 +201,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Tailored Resume Generator](./tailored-resume-generator/) - Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
+- [onemira-meeting-memory](https://github.com/onemira-space/onemira-mcp) - Local AI spoken-context and meeting memory skill ([OneMira C1](https://onemira.com/products/c1)) that captures meetings standalone with speaker ID and streams structured Markdown Wiki context into Claude Code via MCP/CLI with zero cloud. *By [@onemira-space](https://github.com/onemira-space)*
 
 ### Collaboration & Project Management
 
